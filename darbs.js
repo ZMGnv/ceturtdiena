@@ -1,5 +1,4 @@
-window.onload{
-    funkction dzest(){
-        
+
+ function nodzest(){
+        document.getElementById("bildite").src="bildess/balts.png";
     }
-}
