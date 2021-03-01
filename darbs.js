@@ -3,3 +3,8 @@ window.onload{
         
     }
 }
+window.onload{
+    function talak(){
+        
+    }
+}
